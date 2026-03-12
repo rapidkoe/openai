@@ -45,5 +45,6 @@ public class ChatCompletionSyncResponseDTO {
 
     public void setChoices(List<Choice> choices) {
         this.choices = choices;
+
     }
 }
